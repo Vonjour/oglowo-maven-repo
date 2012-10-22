@@ -12,7 +12,7 @@ Put this in your pom.xml
 <repositories>
     <repository>
         <id>oglowo-maven-repo-releases</id>
-        <url>https://github.com/oglowo/oglowo-maven-repo/raw/master/releases</url>
+        <url>https://raw.github.com/oglowo/oglowo-maven-repo/raw/master/releases</url>
     </repository>
 </repositories>
 ```
