@@ -28,7 +28,7 @@ Insert this into your pom.xml in the dependencies section
     <groupId>com.netflix.astyanax</groupId>
     <artifactId>astyanax</artifactId>
     <version>1.56.13</version>
-    <scope>provided</scope>
+    <scope>compile</scope>
 </dependency>
 ```
 
